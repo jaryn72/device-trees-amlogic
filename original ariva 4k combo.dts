@@ -1,8 +1,10 @@
 /dts-v1/;
 
 / {
+	le-dt-id = "gxbb_p200_ariva_4k";
 	model = "Amlogic";
 	compatible = "amlogic, Gxbb";
+	amlogic-dt-id = "gxb_p200_1g";
 	interrupt-parent = <0x1>;
 	#address-cells = <0x2>;
 	#size-cells = <0x2>;
