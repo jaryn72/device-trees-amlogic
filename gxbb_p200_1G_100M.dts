@@ -1,7 +1,7 @@
 /dts-v1/;
 
 / {
-	le-dt-id = "gxbb_p200_ariva_4k";
+	le-dt-id = "gxbb_p200_1G_100M";
 	model = "Amlogic";
 	compatible = "amlogic, Gxbb";
 	amlogic-dt-id = "gxb_p200_1g";
